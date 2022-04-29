@@ -6,7 +6,7 @@
     $la = $argv;
     array_shift($la);
     $lb = array();
-
+    $argc;
 
 // Take into account that when executing the script, the first print_r's are
 // the default arrays and not the arrays after the sort, so please don't be confused :) .
